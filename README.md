@@ -42,10 +42,9 @@
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbbine&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=hbbine&show_icons=true">
 </div>
 <div align=center>
-	 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=hbbine%20Github!&fontSize=80" />	
+	 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=80" />	
 </div>
 
 <!--
@@ -61,4 +60,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="https://github-readme-stats.vercel.app/api?username=hbbine&show_icons=true">
 -->
