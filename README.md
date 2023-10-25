@@ -44,6 +44,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbbine&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=hbbine&show_icons=true">
 </div>
+<div align=center>
+	 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=hbbine%20Github!&fontSize=80" />	
+</div>
 
 <!--
 **hbbine/hbbine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
