@@ -2,13 +2,13 @@
 
  
 ### Hi ✋ My name is hbbine
-🌱 I’m currently learning Java & Spring
+- 🌱 I’m currently learning Java & Spring
 
 
-👯 I’m looking to collaborate on Anyone
+- 👯 I’m looking to collaborate on Anyone
 
 
-💬 Ask me about Anything
+- 💬 Ask me about Anything
 
 
 
@@ -16,7 +16,11 @@
 ### 📚 Tech Stack 📚
 
 
+
+
 🍩 Platforms & Languages 🍩
+
+
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -32,9 +36,13 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
 
 
+
+
   
   
   🛠️ Tools 🛠️
+
+  
 
   
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
@@ -42,20 +50,30 @@
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Tomcat&logoColor=white"/>
 
   
+
+  
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/>
+
+  
 
   
   
   🎨 SNS & Portfolio 🎨
 
   
+
+  
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
   <img src="https://img.shields.io/badge/Portfolio-FFE200?style=flat&logo=Portfolio&logoColor=white"/>
 
   
+
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbbine&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=hbbine&show_icons=true">
+
+
 
 </div>
 
